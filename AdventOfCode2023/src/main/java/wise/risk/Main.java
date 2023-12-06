@@ -22,6 +22,8 @@ public class Main {
                         Day3.answer();
                         break;
                     case 4:
+                        Day4.answer();
+                        break;
                     case 5:
                     case 6:
                     case 7:
